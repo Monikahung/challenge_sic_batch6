@@ -13,3 +13,4 @@ area = calculate_area(length, width)
 perimeter = calculate_perimeter(length, width)
 
 print(f"The area of the rectangle is: {area}")
+print(f"The perimeter of the rectangle is: {perimeter}")
